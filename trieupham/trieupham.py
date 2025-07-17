@@ -1,9 +1,11 @@
+```python
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 # trieupham 0.0.3 (c) 2023 rofl0r, drygdryg modded by vladimir127001, enhanced by Grok
 # A WPS attack tool for scanning and cracking Wi-Fi networks with WPS enabled
 # Requires root privileges and Python 3.6+
 # Supports Pixie Dust attack, bruteforce, and push-button connection
+# Fixed 'break' outside loop error for compatibility
 
 import sys
 import subprocess
@@ -645,7 +647,6 @@ class Companion:
                 f_half = mask[:4]
                 s_half = mask[4:]
                 return self.__second_half_bruteforce(bssid, f_half, s_half, delay)
-            raise KeyboardInterrupt
         except KeyboardInterrupt:
             print("\nAborting…")
             filename = f"{self.sessions_dir}{bssid.replace(':', '').upper()}.run"
@@ -653,8 +654,8 @@ class Companion:
                 file.write(self.bruteforce.mask)
             print(f'[i] Session saved in {filename}')
             if args.loop:
-                raise KeyboardInterrupt
-            return False
+                return False
+            raise SystemExit("Program terminated by user")
 
     def attack_multi_ap(self, bssids, pixiemode=False, showpixiecmd=False, pixieforce=False):
         """Attack multiple APs simultaneously."""
@@ -993,6 +994,8 @@ if __name__ == '__main__':
                         bssids = scanner.prompt_network(multi_ap=True, max_targets=3)
                     else:
                         bssids = [scanner.prompt_network()]
+                else:
+                    bssids = [args.bssid]
 
                 if bssids:
                     companion = Companion(args.interface, args.write, print_debug=args.verbose, threads=args.threads,
@@ -1006,18 +1009,19 @@ if __name__ == '__main__':
                                                     args.show_pixie_cmd, args.pixie_force)
                 if not args.loop:
                     break
-                else:
-                    args.bssid = None
+                args.bssid = None
     except KeyboardInterrupt:
+        print("\n[!] Aborted by user")
         if args.loop:
-            if input("\n[?] Exit the script (otherwise continue to AP scan)? [N/y] ").lower() == 'y':
-                print("Aborting…")
-                break
+            choice = input("\n[?] Exit the script (otherwise continue to AP scan)? [N/y] ").lower()
+            if choice == 'y':
+                print("Exiting…")
             else:
                 args.bssid = None
+                # Continue to next iteration of the loop
+                return
         else:
-            print("\nAborting…")
-            break
+            print("Exiting…")
     finally:
         if companion:
             companion.cleanup()
@@ -1027,3 +1031,4 @@ if __name__ == '__main__':
 
     if args.mtk_wifi:
         wmtWifi_device.write_text("0")
+```
