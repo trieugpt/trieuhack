@@ -1011,8 +1011,7 @@ if __name__ == '__main__':
                 print("Exiting…")
             else:
                 args.bssid = None
-                # Continue to next iteration of the loop
-                return
+                continue  # Continue to next iteration of the loop
         else:
             print("Exiting…")
     finally:
@@ -1024,4 +1023,3 @@ if __name__ == '__main__':
 
     if args.mtk_wifi:
         wmtWifi_device.write_text("0")
-```
