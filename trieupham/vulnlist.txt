@@ -1,0 +1,1362 @@
+ADSL Router EV-2006-07-27
+ADSL RT2860
+AIR3G WSC Wireless Access Point AIR3G WSC Device
+AirLive Wireless Gigabit AP AirLive Wireless Gigabit AP
+Archer_A9 1.0
+ArcherC20i 1.0
+Archer A2 5.0
+Archer A5 4.0
+Archer C2 1.0
+Archer C2 3.0
+Archer C5 4.0
+Archer C6 3.20
+Archer C6U 1.0.0
+Archer C20 1.0
+Archer C20 4.0
+Archer C20 5.0
+Archer C50 1.0
+Archer C50 3.0
+Archer C50 4.0
+Archer C50 5.0
+Archer C50 6.0
+Archer MR200 1.0
+Archer MR200 4.0
+Archer MR400 4.2
+Archer MR200 5.0
+Archer VR300 1.20
+Archer VR400 3.0
+Archer VR2100 1.0
+B-LINK 123456
+Belkin AP EV-2012-09-01
+DAP-1360 DAP-1360
+DIR-635 B3
+DIR-819 v1.0.1
+DIR-842 DIR-842
+DWR-921C3 WBR-0001
+D-Link N Router GO-RT-N150
+D-Link Router DIR-605L
+D-Link Router DIR-615H1
+D-Link Router DIR-655
+D-Link Router DIR-809
+D-Link Router GO-RT-N150
+Edimax Edimax
+EC120-F5 1.0
+EC220-G5 2.0
+EV-2009-02-06
+Enhanced Wireless Router F6D4230-4 v1
+Home Internet Center KEENETIC series
+Home Internet Center Keenetic series
+Huawei Wireless Access Point RT2860
+JWNR2000v2(Wireless AP) JWNR2000v2
+Keenetic Keenetic series
+Linksys Wireless Access Point EA7500
+Linksys Wireless Router WRT110
+NBG-419N NBG-419N
+Netgear AP EV-2012-08-04
+NETGEAR Wireless Access Point NETGEAR
+NETGEAR Wireless Access Point R6220
+NETGEAR Wireless Access Point R6260
+N/A EV-2010-09-20
+Ralink Wireless Access Point RT2860
+Ralink Wireless Access Point WR-AC1210
+RTL8196E
+RTL8xxx EV-2009-02-06
+RTL8xxx EV-2010-09-20
+RTL8xxx RTK_ECOS
+RT-G32 1234
+Sitecom Wireless Router 300N X2 300N
+Smart Router R3 RT2860
+Tenda 123456
+Timo RA300R4 Timo RA300R4
+TD-W8151N RT2860
+TD-W8901N RT2860
+TD-W8951ND RT2860
+TD-W9960 1.0
+TD-W9960 1.20
+TD-W9960v 1.0
+TD-W8968 2.0
+TEW-731BR TEW-731BR
+TL-MR100 1.0
+TL-MR3020 3.0
+TL-MR3420 5.0
+TL-MR6400 3.0
+TL-MR6400 4.0
+TL-WA855RE 4.0
+TL-WR840N 4.0
+TL-WR840N 5.0
+TL-WR840N 6.0
+TL-WR841N 13.0
+TL-WR841N 14.0
+TL-WR841HP 5.0
+TL-WR842N 5.0
+TL-WR845N 3.0
+TL-WR845N 4.0
+TL-WR850N 1.0
+TL-WR850N 2.0
+TL-WR850N 3.0
+TL-WR1042N EV-2010-09-20
+Trendnet router TEW-625br
+Trendnet router TEW-651br
+VN020-F3 1.0
+VMG3312-T20A RT2860
+VMG8623-T50A RT2860
+WAP300N WAP300N
+WAP3205 WAP3205
+Wi-Fi Protected Setup Router RT-AC1200G+
+Wi-Fi Protected Setup Router RT-AX55
+Wi-Fi Protected Setup Router RT-N10U
+Wi-Fi Protected Setup Router RT-N12
+Wi-Fi Protected Setup Router RT-N12D1
+Wi-Fi Protected Setup Router RT-N12VP
+Wireless Access Point .
+Wireless Router 123456
+Wireless Router RTL8xxx EV-2009-02-06
+Wireless Router Wireless Router
+Wireless WPS Router <#ZVMODELVZ#>
+Wireless WPS Router RT-N10E
+Wireless WPS Router RT-N10LX
+Wireless WPS Router RT-N12E
+Wireless WPS Router RT-N12LX
+WN3000RP V3
+WN-200R WN-200R
+WPS Router (5G) RT-N65U
+WPS Router DSL-AC51
+WPS Router DSL-AC52U
+WPS Router DSL-AC55U
+WPS Router DSL-N14U-B1
+WPS Router DSL-N16
+WPS Router DSL-N17U
+WPS Router RT-AC750
+WPS Router RT-AC1200
+WPS Router RT-AC1200_V2
+WPS Router RT-AC1750
+WPS Router RT-AC750L
+WPS Router RT-AC1750U
+WPS Router RT-AC51
+WPS Router RT-AC51U
+WPS Router RT-AC52U
+WPS Router RT-AC52U_B1
+WPS Router RT-AC53
+WPS Router RT-AC57U
+WPS Router RT-AC65P
+WPS Router RT-AC85P
+WPS Router RT-N11P
+WPS Router RT-N12E
+WPS Router RT-N12E_B1
+WPS Router RT-N12 VP
+WPS Router RT-N12+
+WPS Router RT-N14U
+WPS Router RT-N56U
+WPS Router RT-N56UB1
+WPS Router RT-N65U
+WPS Router RT-N300
+WR5570 2011-05-13
+ZyXEL NBG-416N AP Router
+ZyXEL NBG-416N AP Router NBG-416N
+ZyXEL NBG-418N AP Router
+ZyXEL NBG-418N AP Router NBG-418N
+ZyXEL Wireless AP Router NBG-417N
+Archer C6 v2
+Archer C6 v3.20
+Archer C80 v2_1.3.1
+Archer AX10 1.0
+Archer AX12
+Archer AX20 1.0
+Archer AX50 1.0
+Archer AX53
+Archer AX73 1.0
+Archer AX73 Pro
+Buffalo WHR-G54S
+DIR-300
+DIR-600
+DIR-850L
+DIR-878 A1
+DIR-878 firmware 1.05B03
+DIR-882 A1
+DSL-2750U
+D-Link EXO AX5400 DIR-X5460
+D-Link EXO AX6000 DIR-X6060
+D-Link R15 Eagle Pro AI
+F3
+FH456
+F680
+F680 v2
+F689z
+F7010
+F7015
+FPT Tenda AC6
+FPT Tenda AC10U
+FPT Tenda AC23
+FPT Tenda AC21
+FPT Tenda RX3
+FPT Tenda RX9 Pro
+FPT Tenda N301
+FPT Tenda F3
+FPT ZTE ZXHN F609
+FPT ZTE ZXHN F670
+FPT ZTE ZXHN F680
+FPT ZTE ZXHN F670L
+FPT Huawei HG8045A
+FPT Huawei EG8145V5
+FPT iGate GW040
+FPT iGate GW040H
+FPT iGate GW040X
+FPT Play Box Wi-Fi 6 Router
+FPT S-Connect GW800
+FPT Wi-Fi 6 AX1800
+HG8045A
+HG8045A VNPT
+HG8145V
+HG8245H
+Huawei AX6 Pro
+Huawei BE3 Pro
+Huawei EG8145V5 firmware V500R020C00SPC200
+Huawei EG8247Q
+Huawei HG8145X6
+iGate GW040
+iGate GW040H
+iGate GW040X
+iGate GW800
+iGate GW1000
+Linksys E1200 v2
+Linksys EA6350 v3
+Linksys MR8300
+Linksys WRT3200ACM
+Mercusys Halo H80X
+Mercusys MR90X
+Mi Router 3
+Mi Router 3G
+Mi Router 4A
+Mi Router 4C
+Mi Wi-Fi Mini
+MikroTik RB750Gr3
+MikroTik hAP ac²
+MikroTik hAP ax³
+MW12 2.0
+N301
+Netgear Nighthawk RAXE500
+Netgear Orbi RBK863
+Netgear Orbi RBKE963
+Nighthawk AX8
+Nighthawk XR500
+Orbi RBK863
+P-660HW-T1
+R6220
+R6260
+R6400
+R7000
+R7000 firmware 1.3.3.8
+Redmi AX6000
+Redmi Router AX5
+ROG Rapture GT-AX6000
+RT-AX3000
+RT-AX59U
+RT-AX82U
+RT-AX86U
+RT-AX86U firmware 3.0.0.4.388_24198
+RT-AX88U
+RT-AX88U Pro
+RT-AX89X
+RT-AC66U
+RT-AC68U
+Tenda AC6
+Tenda AC10
+Tenda AC10U
+Tenda AC11U 1.0
+Tenda AC23
+Tenda AC21
+Tenda RX3
+Tenda RX9 Pro
+Tenda RX27 Pro
+Tenda N3
+Tenda MW12 2.0
+TL-MR3420 v2
+TL-WR740N v4
+TL-WR740N v6
+TL-WR841N v9
+TL-WR841N v10
+TL-WR841N v11
+TL-WR841N v12
+TL-WR940N v3
+TL-WR940N v4
+TL-WR940N v5
+VNPT iGate GW040
+VNPT iGate GW040H
+VNPT iGate GW040X
+VNPT iGate GW800
+VNPT iGate GW1000
+VNPT ZTE ZXHN F660
+VNPT ZTE ZXHN F670
+VNPT ZTE ZXHN F680
+VNPT ZTE ZXHN F670L
+VNPT ZTE H198A
+VNPT TOTOLINK N200RE
+VNPT TOTOLINK N300RT
+VNPT TOTOLINK X5000R
+VNPT TP-Link Archer C6
+VNPT TP-Link Archer AX10
+VNPT TP-Link Archer AX20
+VNPT TP-Link Archer C80
+Viettel ZTE ZXHN F600
+Viettel ZTE ZXHN F601
+Viettel ZTE ZXHN F600W
+Viettel ZTE ZXHN F608
+Viettel ZTE ZXHN F609
+Viettel ZTE ZXHN F660
+Viettel ZTE ZXHN F670
+Viettel ZTE ZXHN F670L
+Viettel ZTE F680
+Viettel ZTE F680 v2
+Viettel Huawei HG8045A
+Viettel Huawei HG8145V
+Viettel iGate GW040
+Viettel iGate GW040H
+Viettel iGate GW040X
+Viettel iGate GW800
+Viettel iGate GW1000
+Viettel TP-Link WR840N
+Viettel TP-Link WR940N
+Viettel TP-Link Archer C20
+Viettel TP-Link Archer C6
+Viettel TP-Link Archer AX10
+Viettel TP-Link Archer AX20
+Viettel TP-Link Archer AX53
+Viettel TP-Link Archer AX73
+Xiaomi BE7000
+Router AX9000
+Router AX6000
+Ubiquiti UniFi Dream Router UDR
+Ubiquiti UniFi Express UX
+Ubiquiti UniFi Dream Machine SE
+ZTE ZXHN F600
+ZTE ZXHN F600W
+ZTE ZXHN F601
+ZTE ZXHN F608
+ZTE ZXHN F660
+ZTE H188A
+ZTE H369X
+ZyXEL NBG-416N
+ZyXEL NBG-418N
+ZyXEL VMG3925-B10B
+ZyXEL Armor G5
+TOTOLINK N200RE
+TOTOLINK N300RT
+TOTOLINK N600R
+TOTOLINK X5000R
+TOTOLINK T10
+TOTOLINK A950RG
+TOTOLINK A950RG 2024
+TP-Link Archer C64
+TP-Link Deco M4
+TP-Link Deco X20
+TP-Link Deco X60
+TP-Link Deco Xe75
+TP-Link Deco X95
+TP-Link TL-WR740N v6
+TP-Link TL-WR841ND v11
+TP-Link TL-WR902AC v3
+TP-Link Archer C80 v2_1.3.1
+TP-Link Archer Be900
+TP-Link Archer Be800
+TP-Link Archer Be550
+TP-Link Deco Be95
+TP-Link Deco Be85
+TP-Link Deco Be65
+TP-Link Eap780
+TP-Link Eap770
+TP-Link Archer Be805
+TP-Link Archer Be6500
+TP-Link Deco Be68
+TP-Link Deco Be23
+TP-Link Deco Be75
+TP-Link Eap772-outdoor
+TP-Link Archer C54
+TP-Link TL-WR840N
+TP-Link Archer C80
+TP-Link TL-WR841N
+TP-Link TL-WR845N
+TP-Link TL-WR940N
+TP-Link TL-MR6400
+TP-Link Archer Be19000
+TP-Link Archer Be9000
+TP-Link Archer Be5500
+TP-Link Archer Ax11000 Pro
+TP-Link Archer Ax80
+TP-Link Deco Be95 Pro
+TP-Link Deco X90
+TP-Link Deco X50-outdoor
+TP-Link Deco X50-poe
+TP-Link Deco X20-dsl
+TP-Link Deco Voice X20
+TP-Link Deco Px50
+TP-Link Xdr6050 Easymesh
+TP-Link Xdr6088
+TP-Link Xdr3020
+TP-Link Eap783 (wi-fi 7)
+TP-Link Eap653 (wi-fi 6)
+TP-Link Eap670 (wi-fi 6)
+TP-Link Eap680 Hd
+TP-Link Omada Er8411
+TP-Link Wr1043nd
+TP-Link Wr1043nd v2
+TP-Link Wr1043nd v3
+TP-Link TL-WDR4300
+TP-Link TL-WR941ND
+TP-Link TL-WR743ND
+TP-Link TL-MR3420 v2
+TP-Link Archer C7 v2
+TP-Link Archer C9
+TP-Link Archer Ax10
+TP-Link TL-WR720N
+TP-Link TL-WR802N
+TP-Link TL-WA901ND
+TP-Link Deco M5
+TP-Link Deco M9 Plus
+TP-Link Deco M4 v2
+TP-Link Deco M4r
+TP-Link Deco E4
+TP-Link Archer C25
+TP-Link Archer C21
+TP-Link Archer C59
+TP-Link Archer C60
+TP-Link Archer C24
+TP-Link Archer C6U
+TP-Link Archer A9
+TP-Link Archer C20 Pro
+TP-Link Archer C6 v3
+TP-Link Archer Ax1800
+TP-Link Ax23
+TP-Link Ax53
+TP-Link Ax55
+TP-Link Wr810n
+TP-Link Archer C24
+TP-Link Archer C58
+TP-Link Archer C6 v2
+TP-Link Archer C2 v5
+TP-Link Archer C60 v2
+TP-Link Archer Ax23
+TP-Link Ax73
+TP-Link Ax55
+TP-Link Deco X20
+TP-Link Deco M4
+TP-Link Deco M4 v2
+TP-Link Deco X60
+TP-Link Deco X50
+TP-Link Deco Px50
+Tenda Ac6
+Tenda Ac10u
+Tenda Ac10
+Tenda Ac11u 1.0
+Tenda Ac23
+Tenda Fh456
+Tenda Mw12 2.0
+Tenda N301
+Tenda F3
+Tenda Tx27 Pro
+Tenda Tx12 Pro
+Tenda Rx27 Pro
+Tenda Rx12 Pro
+Tenda Ex12
+Tenda Nova Mw12
+Tenda Nova Mw6
+Tenda Nova Mw3
+Tenda 4g680 V2 (4g Router)
+Tenda 5g06 (5g Router)
+Tenda 4g09 (4g Lte Router)
+Tenda Ac21
+Tenda Ac7
+Tenda Ac8
+Tenda Ac18
+Tenda Ac19
+Tenda Ac1200
+TOTOLINK N200re
+TOTOLINK N600r
+TOTOLINK X5000r
+TOTOLINK A950rg
+TOTOLINK A720r
+TOTOLINK N300rt
+TOTOLINK A810r
+TOTOLINK A830r
+TOTOLINK A3700r
+TOTOLINK X5000r Pro
+TOTOLINK N350rt
+TOTOLINK X6000r
+TOTOLINK X8000r
+TOTOLINK T10 Mesh
+TOTOLINK T6 Mesh
+TOTOLINK T8 Mesh
+TOTOLINK T20
+TOTOLINK T30
+TOTOLINK A720r v6
+TOTOLINK A3002ru
+TOTOLINK X2000r
+TOTOLINK A2004ns
+TOTOLINK Ex1200t
+TOTOLINK N150rt
+Xiaomi Router Ax9000
+Xiaomi Router Ax6000
+Xiaomi Mi Router 3g
+Xiaomi Mi Router 4a Gigabit
+Xiaomi Mi Router 4c
+Xiaomi Mi Router Ax1800
+Xiaomi Mi Wifi Mini
+Xiaomi Redmi Ax5
+Xiaomi 4a Wireless Router
+Xiaomi Mi Router Ax6000 Pro
+Xiaomi Mi Aiot Router Ac2350
+Xiaomi Ax3600
+Xiaomi Mi Wifi Repeater 2
+ZTE ZXHN F600w
+ZTE ZXHN F600w-v2
+ZTE ZXHN F660a
+ZTE ZXHN F660w
+ZTE ZXHN F6609
+ZTE ZXHN F660
+ZTE ZXHN F660v5
+ZTE ZXHN F660rv1
+ZTE ZXHN F660rv2
+ZTE ZXHN F660rv3
+ZTE ZXHN F670y
+ZTE ZXHN F6708
+ZTE ZXHN F670l-b
+ZTE ZXHN F670l-q
+ZTE ZXHN F670
+ZTE ZXHN F670l
+ZTE ZXHN F670lv1
+ZTE ZXHN H188a
+ZTE ZXHN H198a
+ZTE ZXHN H369x
+ZTE Ax5400 Pro+
+ZTE Ax3000 Pro
+ZTE Ax3000t
+ZTE Ax5400 Pro
+ZTE Ax6000 Pro
+ZTE Ax8400 Pro
+ZTE Ax9000 Pro
+ZTE Be3600 Pro
+ZTE Be7200 Pro
+ZTE Be7200 Pro+
+ZTE Be8000
+ZTE Be10000
+ZTE F689z
+ZTE F8630
+ZTE F680t
+ZTE F6860
+ZTE F680s
+ZTE ZXHN H612b
+ZTE ZXHN H650
+ZTE ZXHN H660
+ZTE ZXHN H670e
+ZTE ZXHN H680
+ZTE ZXHN H685
+ZTE ZXHN H770a
+ZTE ZXHN H780
+ZTE ZXHN H860m
+ZTE ZXHN F673a
+ZTE ZXHN F673v9
+ZTE ZXHN F688
+ZTE ZXHN F691
+ZTE ZXHN F6742
+ZTE ZXHN F6747
+ZTE ZXHN F678
+ZTE ZXHN F680d
+ZTE ZXHN F866
+ZTE ZXHN F870
+ZTE ZXHN F870a
+ZTE ZXHN F875a
+ZTE ZXHN F6805
+ZTE ZXHN F6809
+ZTE ZXHN F6850
+ZTE ZXHN F6870
+ZTE ZXHN F6880
+ZTE ZXHN F6890
+ZTE ZXHN F6895
+ZTE ZXHN F800
+ZTE ZXHN F880
+ZTE ZXHN F920
+ZTE ZXHN E8820v
+ZTE ZXHN E8826v
+ZTE ZXHN E8828v
+ZTE ZXHN F2867
+ZTE ZXHN F686
+ZTE ZXHN F665
+ZTE ZXHN F6640
+ZTE ZXHN F693
+ZTE ZXHN F668
+ZTE ZXHN F669
+ZTE ZXHN F665q
+ZTE ZXHN F860
+ZTE ZXHN F861
+ZTE ZXHN F862
+ZTE ZXHN F865
+ZTE ZXHN F866a
+ZTE ZXHN F876
+ZTE ZXHN F890
+ZTE ZXHN F890a
+ZTE ZXHN F920a
+ZTE ZXHN F980
+ZTE ZXHN F982
+ZTE ZXHN F1200
+ZTE ZXHN F668a
+ZTE ZXHN F690
+ZTE ZXHN F680l
+ZTE ZXHN F693a
+ZTE ZXHN H560
+ZTE ZXHN H685a
+ZTE Zxh
+ZTE ZXHN F680l-b
+ZTE ZXHN F666
+ZTE ZXHN F6640q
+ZTE ZXHN F688b
+ZTE ZXHN F6808
+ZTE ZXHN F6800
+ZTE ZXHN F6870a
+ZTE ZXHN F682
+ZTE ZXHN F663n
+ZTE ZXHN F688a
+ZTE ZXHN F666a
+ZTE ZXHN F663
+ZTE ZXHN F860b
+ZTE ZXHN F863
+ZTE ZXHN F870b
+ZTE ZXHN F869
+ZTE ZXHN F867
+ZTE ZXHN F868
+ZTE ZXHN F860a
+ZTE ZXHN F880a
+ZTE ZXHN F881
+ZTE ZXHN F982a
+ZTE ZXHN F980a
+ZTE ZXHN F6888
+ZTE ZXHN F683
+ZTE ZXHN H298a
+ZTE ZXHN H198a-v2
+ZTE ZXHN F601
+ZTE ZXHN F609
+ZTE ZXHN F609v6
+ZTE ZXHN F609v8
+ZTE ZXHN F610
+ZTE ZXHN F612
+ZTE ZXHN F612w
+ZTE ZXHN F620
+ZTE ZXHN F620g
+ZTE ZXHN F623
+ZTE ZXHN F625
+ZTE ZXHN F626
+ZTE ZXHN F628
+ZTE ZXHN F629
+ZTE ZXHN F651
+ZTE ZXHN F680
+ZTE ZXHN F680v2
+ZTE ZXHN F688v9
+ZTE ZXHN F689
+ZTE ZXHN H168n
+ZTE ZXHN H188ax
+ZTE ZXHN H298n
+ZTE ZXHN H298q
+ZTE ZXHN H298b
+ZTE ZXHN E8803v
+ZTE ZXHN F680t
+ZTE ZXHN F680s
+ZTE ZXHN F681
+ZTE ZXHN F694
+ZTE ZXHN E8808v
+ZTE ZXHN E8810v
+ZTE ZXHN E8825v
+ZTE ZXHN E8827v
+ZTE ZXHN E8829v
+ZTE ZXHN H168b
+ZTE ZXHN H186
+ZTE ZXHN H188a-v2
+ZTE ZXHN H196a
+ZTE ZXHN H198a Pro
+ZTE ZXHN H198a-b
+ZTE ZXHN H198q
+ZTE ZXHN H298n Plus
+ZTE ZXHN H289a
+ZTE ZXHN H368a
+ZTE ZXHN H368b
+ZTE ZXHN H368n
+ZTE ZXHN H560a
+ZTE ZXHN H589a
+ZTE ZXHN H588a
+ZTE ZXHN H680a
+ZTE ZXHN H982a
+ZTE Mf286d (4g Cpe)
+ZTE Mc801a (5g Cpe)
+ZTE Mc888 Ultra (5g Cpe)
+ZTE Mf297d (5g Cpe)
+ZTE Mf296 (4g Cpe)
+ZTE Mf269 (4g Cpe)
+ZTE Mf253s (4g Cpe)
+ZTE Mf275r (4g Cpe)
+ZTE H267a
+ZTE H368n
+ZTE H298n
+ZTE ZXHN E8805v
+ZTE ZXHN E8830v
+ZTE ZXHN E8806v
+ZTE ZXHN F650
+ZTE ZXHN F620w
+ZTE ZXHN F686a
+ZTE ZXHN F6872
+ZTE ZXHN F693c
+ZTE Mf283
+ZTE Mf920u
+Huawei Hg8045a
+Huawei Eg8145v5 Firmware V500r020c00spc200
+Huawei Eg8145v5
+Huawei Wireless Access Point Rt2860
+Huawei Ax3 Quad-core
+Huawei Ax6
+Huawei Wifi Ax3 Pro (new Revision)
+Huawei B315s-936
+Huawei Hg8145v5
+Huawei Be3 Pro
+Huawei Be3
+Huawei Be7
+Huawei Hg8045q
+Huawei Hg8245h
+Huawei Hg8245a
+Huawei Ax3 Pro Dual-core
+Huawei Wifi Q6 Mesh
+Huawei Wifi Mesh 3
+Huawei Wifi Mesh 7
+Huawei 5g Cpe Pro 2
+Huawei 5g Cpe Pro 3
+Huawei 5g Cpe Win
+Huawei Hn8245x6
+Huawei Hn8255ws
+Huawei Ws8806
+Huawei Ws7206
+Huawei Ws8000
+Huawei Ws5100
+Huawei B535-232 (4g)
+Huawei B628-265 (4g)
+Huawei B818-263 (4g)
+Huawei E5788u-96a (4g)
+Huawei 5g Mobile Wifi Pro
+Huawei E5186
+Huawei E5577c
+Asus Rt-ac66u
+Asus Rt-ac68u
+Asus Rt-ax3000
+Asus Rt-ax59u
+Asus Rt-ax82u
+Asus Rt-ax86u
+Asus Rt-ax88u
+Asus Rt-ax88u Pro
+Asus Rog Rapture Gt-ax6000
+Asus Rt-n18u
+Asus Tuf-ax4200
+Asus Rt-ax86u Firmware 3.0.0.4.388_24198
+Asus Rog Rapture Gt-be19000ai
+Asus Rt-be96u
+Asus Rt-be88u
+Asus Rt-be58 Go
+Asus Zenwifi Be
+Asus 5g-go
+Asus Zenwifi Bq16 Pro
+Asus Zenwifi Bq16
+Asus Zenwifi Be30000
+Asus Rt-be79u
+Asus Rt-ax11000 Pro
+Asus Rt-ax89x
+Asus Rt-ax5400
+Asus Rt-ax57
+Asus Zenwifi Et12 (wi-fi 6e)
+Asus Zenwifi Pro Et12
+Asus Zenwifi Pro Xt12
+Asus Zenwifi Xd6
+Asus Zenwifi Xd5
+Asus Zenwifi Xd4
+Asus Zenwifi Ax Mini Xd4
+Asus Tuf Gaming Ax6000
+Asus Gt-ax11000 Pro
+Asus Rog Rapture Gt-axe16000
+Asus Rog Rapture Gt-be98 Pro
+Asus Rt-ac1200g Plus
+Asus Rt-n16
+Asus Rt-ac58u
+Asus Rt-ac68u v3
+Asus Rt-ax56u
+Asus Rt-ax55
+Asus Rt-ac66u B1
+D-Link N Router Go-rt-n150
+D-Link Router DIR-605l
+D-Link Router DIR-615h1
+D-Link Router DIR-655
+D-Link Router DIR-809
+D-Link Router Go-rt-n150
+D-Link Dir-x1860 A1
+D-Link DIR-612
+D-Link DIR-850l
+D-Link DIR-878 A1
+D-Link DIR-882 A1
+D-Link Exo Ax5400 (dir-x5460)
+D-Link Dsl-2750u
+D-Link DIR-878 Firmware 1.05b03
+D-Link Dbr-600-p
+D-Link Dbr-x3000-ap
+D-Link Exo Ax5400 Dir-x5460
+D-Link Eagle Pro Ai R32
+D-Link M60 Ax6000
+D-Link Dir-x5460
+D-Link R32 Eagle Pro Ai
+D-Link M15 Eagle Pro Ai Ax1500 Mesh
+D-Link M32 Ax3200 Mesh
+D-Link M30 Ax3000 Mesh
+D-Link G416 (4g Lte)
+D-Link G415 (4g Lte)
+D-Link DIR-300
+D-Link DIR-615
+D-Link DIR-878
+D-Link DIR-882
+D-Link DIR-850l
+Linksys Wireless Access Point Ea7500
+Linksys Wireless Router Wrt110
+Linksys E1200 v2
+Linksys Ea6350 v3
+Linksys Mr8300
+Linksys Wrt3200acm
+Linksys Velop Pro 7
+Linksys Mx6200 Velop Pro 7
+Linksys Mx4050 Velop Pro 6e
+Linksys Mr7500 Max-stream
+Linksys Mx8503 Atlas Max 6e
+Linksys Mx12600
+Linksys Mr9600
+Linksys Hydra Pro 6e Mr7500
+Linksys Velop Ax4200
+Linksys Velop Mx5300
+Linksys Wrt54gl
+Linksys E900
+Linksys Ea7500
+Netgear Ap Ev-2012-08-04
+Netgear Wireless Access Point Netgear
+Netgear Wireless Access Point R6220
+Netgear Wireless Access Point R6260
+Netgear Nighthawk Ax8
+Netgear Nighthawk Rax50
+Netgear Nighthawk Xr500
+Netgear Orbi Rbk863
+Netgear R6400
+Netgear R7000
+Netgear R7000 Firmware 1.3.3.8
+Netgear Orbi 970 Series Rbe973s
+Netgear Nighthawk Rs700s
+Netgear Orbi Rbe980
+Netgear Nighthawk Rs300
+Netgear Nighthawk Rax120
+Netgear Nighthawk Raxe300 (wi-fi 6e)
+Netgear Nighthawk M6 Pro (5g Mobile Router)
+Netgear Orbi Rbke963 (wi-fi 6e Mesh)
+Netgear Orbi Nbk752 (5g Mesh)
+Netgear Orbi Rbk753
+Netgear Orbi Rbk853
+Netgear Nighthawk Xr1000
+Netgear Nighthawk Xr500 Pro
+Netgear Wnd3700
+Netgear Wnd3800
+Netgear R8000
+Netgear X6s
+Netgear Nighthawk R7000p
+Netgear Nighthawk X4s
+Netgear Nighthawk Ax12
+Mikrotik Rb750gr3
+Mikrotik Hap Ac²
+Mikrotik Hap Lite Rb941-2nd
+Mikrotik Rb5009ug+s+
+Mikrotik Hex S (rb760igs)
+Mikrotik Audience
+Mikrotik Chateau Lte12
+Mikrotik Chateau 5g
+Mikrotik Hap Ax2
+Mikrotik Hap Ax3
+Mikrotik Hap Ac3
+Mikrotik Hap Ac2
+Mikrotik Hap Ac Lite Tower
+Mikrotik Lhg 5
+Ubiquiti Unifi Dream Router (udr)
+Ubiquiti Unifi Express (ux)
+Ubiquiti Unifi Dream Machine Pro
+Ubiquiti Unifi Dream Wall
+Ubiquiti Unifi U6-lr (wi-fi 6)
+Ubiquiti Unifi U7 Pro (wi-fi 7)
+Ubiquiti Amplifi Alien
+Ubiquiti Nanostation M2
+Ubiquiti Nanostation M5
+Ubiquiti Edgerouter X
+Mercusys Halo H80x
+Mercusys Mr90x
+Mercusys Halo Be12
+Mercusys Mr60x Pro
+Mercusys Halo H90x
+Mercusys Halo H70x
+Mercusys Halo H50g
+Mercusys Mr60x
+Mercusys Mr80x
+Mercusys Mr50g
+Mercusys Mr30g
+Mercusys Mr20
+Mercusys Mw325r
+Mercusys Mr70x
+Glinet Gl-ar150
+Glinet Gl-mt300n-v2
+Glinet Gl-ax1800
+Banana Pi R64
+Banana Pi R3
+Nanopi R4s
+Comfast Cf-wr800n
+Openwrt Supported Device
+Viettel TP-Link Archer C20
+Cmc TP-Link Archer C6
+Viettel TP-Link Wr840n
+Viettel TP-Link Wr940n
+Mobifone TP-Link Wr940n
+Sctv TP-Link Wr841n
+Fpt Modem Tenda Ac6
+Fpt Modem Tenda Ac10u
+Viettel Modem Huawei Hg8045a
+Mobifone Huawei Eg8145v5
+Vnpt ZTE ZXHN F670
+Mobifone ZTE ZXHN F670l
+Vnpt Igate Gw040h
+Vnpt Igate Gw040
+Vnpt Vne2040
+Viettel ZTE F670l
+Adsl Router Ev-2006-07-27
+Adsl Rt2860
+Air3g Wsc Wireless Access Point Air3g Wsc Device
+Airlive Wireless Gigabit Ap Airlive Wireless Gigabit Ap
+Archer_A9 1.0
+Archerc20I 1.0
+Archer C6U 1.0.0
+Archer Mr200 1.0
+Archer Mr200 4.0
+Archer Mr400 4.2
+Archer Mr200 5.0
+Archer Vr300 1.20
+Archer Vr400 3.0
+Archer Vr2100 1.0
+B-link 123456
+Belkin Ap Ev-2012-09-01
+DAP-1360 DAP-1360
+DIR-635 B3
+DIR-819 v1.0.1
+DIR-842 DIR-842
+Dwr-921c3 Wbr-0001
+Ec120-f5 1.0
+Ec220-g5 2.0
+Ev-2009-02-06
+Enhanced Wireless Router F6d4230-4 v1
+Home Internet Center Keenetic Series
+Jwnr2000v2(wireless Ap) Jwnr2000v2
+Keenetic Keenetic Series
+Nbg-419n Nbg-419n
+N/a Ev-2010-09-20
+Ralink Wireless Access Point Rt2860
+Ralink Wireless Access Point Wr-ac1210
+Rtl8196e
+Rtl8xxx Ev-2009-02-06
+Rtl8xxx Ev-2010-09-20
+Rtl8xxx Rtk_ecos
+Rt-g32 1234
+Sitecom Wireless Router 300n X2 300n
+Smart Router R3 Rt2860
+Timo Ra300r4 Timo Ra300r4
+Td-w8151n Rt2860
+Td-w8901n Rt2860
+Td-w8951nd Rt2860
+Td-w9960 1.0
+Td-w9960 1.20
+Td-w9960v 1.0
+Td-w8968 2.0
+Tew-731br Tew-731br
+TL-MR100 1.0
+TL-MR3020 3.0
+TL-MR3420 5.0
+TL-MR6400 3.0
+TL-MR6400 4.0
+TL-WA855RE 4.0
+TL-WR840N 4.0
+TL-WR840N 5.0
+TL-WR840N 6.0
+TL-WR841N 13.0
+TL-WR841N 14.0
+TL-WR841HP 5.0
+TL-WR842N 5.0
+TL-WR845N 3.0
+TL-WR845N 4.0
+TL-WR850N 1.0
+TL-WR850N 2.0
+TL-WR850N 3.0
+TL-WR1042N Ev-2010-09-20
+Trendnet Router Tew-625br
+Trendnet Router Tew-651br
+Vn020-f3 1.0
+Vmg3312-t20a Rt2860
+Vmg8623-t50a Rt2860
+Wap300n Wap300n
+Wap3205 Wap3205
+Wi-fi Protected Setup Router Rt-ac1200g+
+Wi-fi Protected Setup Router Rt-n10u
+Wi-fi Protected Setup Router Rt-n12
+Wi-fi Protected Setup Router Rt-n12d1
+Wi-fi Protected Setup Router Rt-n12vp
+Wireless Router Rtl8xxx Ev-2009-02-06
+Wireless WPS Router <#zvmodelvz#>
+Wireless WPS Router Rt-n10e
+Wireless WPS Router Rt-n10lx
+Wireless WPS Router Rt-n12e
+Wireless WPS Router Rt-n12lx
+Wn3000rp V3
+Wn-200r Wn-200r
+WPS Router (5g) Rt-n65u
+WPS Router Dsl-ac51
+WPS Router Dsl-ac52u
+WPS Router Dsl-ac55u
+WPS Router Dsl-n14u-b1
+WPS Router Dsl-n16
+WPS Router Dsl-n17u
+WPS Router Rt-ac750
+WPS Router Rt-ac1200
+WPS Router Rt-ac1200_v2
+WPS Router Rt-ac1750
+WPS Router Rt-ac750l
+WPS Router Rt-ac1750u
+WPS Router Rt-ac51
+WPS Router Rt-ac51u
+WPS Router Rt-ac52u
+WPS Router Rt-ac52u_b1
+WPS Router Rt-ac53
+WPS Router Rt-ac57u
+WPS Router Rt-ac65p
+WPS Router Rt-ac85p
+WPS Router Rt-n11p
+WPS Router Rt-n12e
+WPS Router Rt-n12e_b1
+WPS Router Rt-n12 Vp
+WPS Router Rt-n12+
+WPS Router Rt-n14u
+WPS Router Rt-n56u
+WPS Router Rt-n56ub1
+WPS Router Rt-n65u
+WPS Router Rt-n300
+Wr5570 2011-05-13
+Zyxel Nbg-416n Ap Router
+Zyxel Nbg-416n Ap Router Nbg-416n
+Zyxel Nbg-418n Ap Router
+Zyxel Nbg-418n Ap Router Nbg-418n
+Zyxel Wireless Ap Router Nbg-417n
+Archer Ax10 1.0
+Archer Ax20 1.0
+Archer Ax3000 1.0
+Archer Ax50 1.0
+Archer Ax73 1.0
+Archer Ax72 1.0
+Archer Ax75 1.0
+Archer Axe75 1.0
+Zyxel Armor G5
+Zyxel Vmg3925-b10b
+Viettel Modem ZTE F608
+Viettel Huawei Hg8145x6
+Viettel ZTE F7010
+Viettel Fiberhome An5506-04-f1a
+Viettel ZTE F600w
+Viettel ZTE H198a
+Viettel ZTE F609
+Viettel ZTE F660
+Viettel Viettelnet Wifi 5g
+Viettel Wifi Mesh Ax3000
+Viettel Smartont An5506-04-f4t
+Viettel Ac1000f
+Viettel Hg8045a
+Viettel Wi-fi Mesh Ac1200
+Viettel Igate Gw040
+Fpt Modem Igate Gw040
+Fpt Modem Igate Rg4100hn
+Fpt Modem Draytek Vigor 2925
+Fpt Wifi Router TP-Link Archer C2
+Fpt Wifi Router TP-Link Archer C5
+Fpt Router TOTOLINK N300rt
+Fpt Gpon F680
+Fpt Gpon F680r
+Fpt G97rg6m
+Fpt G97rg6m v2
+Fpt Ac1000f
+Fpt Ac1000g
+Fpt Wifi Hub Ac1000
+Fpt TP-Link Wr940n
+Fpt TOTOLINK N600r
+Fpt Smart Gateway S9705
+Fpt Alcatel-lucent I-241w-a
+Fpt Nokia G-2425g-a
+Vnpt Igate Gw020
+Vnpt Igate Ew12st
+Vnpt Yes Telecom Gpon Ont
+Vnpt TP-Link Archer C5
+Vnpt TP-Link Wr845n
+Vnpt ZTE ZXHN F600
+Vnpt Wifi Vne1040e
+Vnpt Smartbox 2
+Vnpt Smartbox 3
+Vnpt Wifi 6 Vne2040
+Vnpt Ont Igate Gr140
+Vnpt Home Wi-fi
+Vnpt ZTE ZXHN F7015
+Vnpt Fiberhome Hg6145d
+Cmc TOTOLINK N200re
+Cmc D-Link Dsl-2750u
+Cmc Cm6826
+Cmc Igate Cm330
+Cmc Fiberhome An5506-04-f2a
+Sctv TOTOLINK A702r
+Sctv TOTOLINK N200re
+Sctv Igate Gw020h
+Sctv Docsis Wi-fi
+Sctv Cm336
+Mobifone Gpon ZTE F680
+Mobifone ZTE F680 v2
+Mobifone Fiberhome An5506-04-fg
+Netnam Cisco Rv130w
+Netnam Mikrotik Hap Ac Lite
+Netnam Wireless Router 802.11ac
+Fortiwifi 60f
+Zyxel Usg Flex 100
+Amazon Eero Max 7
+Zyxel Armor G7
+Zyxel Nwa130be
+Amazon Eero Pro 7
+Amazon Eero Poe 6
+Zyxel Nwa220ax-6e
+Zyxel Scr 50axe
+Zyxel Nwa130ax
+Zyxel Scr 50ax
+Igate Gw040
+Igate Rg4100hn
+Igate Ew12st
+Alcatel-lucent I-240w-q
+Nokia G-240w-f
+Nokia G-2425g-a
+Dasan H640w
+Dasan H660wm
+Sagemcom F@st 3890vn
+Vnpt Vne1040e
+Zyxel Armor G5 Ax6000
+Zyxel Armor G1
+Zyxel Multy X Wsq50
+Zyxel Multy M1
+Zyxel Nbg7510
+Zyxel Ex3301-t0
+Zyxel Ex5501-b0
+Zyxel Dx3301-t0
+Zyxel Lte7461-m602 (4g)
+Zyxel Nr5101 (5g)
+Zyxel Wx3100-t0 Mesh
+Zyxel Wx3401-b0 Mesh
+Archer C2 5.0
+Archer C5 2.0
+Archer C5 3.0
+Archer C6 4.0
+Archer C6 3.2
+Archer C6U 1.1
+Archer C7 4.0
+Archer C7 5.0
+Archer C9 1.0
+Archer C24 2.0
+Archer C54 2.0
+Archer C58 1.0
+Archer C59 2.0
+Archer C60 3.0
+Archer C80 2.0
+Archer C1200 1.0
+Archer C2300 1.0
+Archer C4000 1.0
+Archer C5400 2.0
+Archer A5 5.0
+Archer A6 3.2
+Archer A7 1.0
+Archer A8 2.0
+Archer A9 2.0
+Archer A10 1.0
+Archer A20 1.0
+Archer Ax10 1.20
+Archer Ax20 1.20
+Archer Ax23 1.20
+Archer Ax50 2.0
+Archer Ax53 1.20
+Archer Ax55 1.20
+Archer Ax73 2.0
+Archer Ax6000 1.0
+Archer Ax90 1.0
+Archer Ax95 1.0
+Archer Ax11000 2.0
+Archer Ax1500 1.0
+Archer Ax1800 1.0
+Archer Ax3000 1.0
+Archer Mr400 5.0
+Archer Mr600 3.0
+Archer Mr6400 6.0
+Archer Mr500 2.0
+Archer Vr400 4.0
+Archer Vr600 3.0
+Archer Vr900 2.0
+Archer Vr2800 1.0
+Archer Vr2100 2.0
+WPS Router TP-Link TL-WR841N 10.0
+WPS Router TP-Link TL-WR841N 12.0
+WPS Router TP-Link TL-WR845N 3.0
+WPS Router TP-Link TL-WR940N 5.0
+WPS Router TP-Link Archer C20 5.0
+WPS Router TP-Link Archer C50 4.0
+WPS Router TP-Link Archer C54 2.0
+WPS Router TP-Link Archer Ax10 1.20
+WPS Router TP-Link Deco M4 2.0
+WPS Router TP-Link Deco X20 1.0
+WPS Router TP-Link Deco X60 1.0
+WPS Router TP-Link Deco X95 1.0
+WPS Router Tenda AC6 1.0
+WPS Router Tenda AC10 2.0
+WPS Router Tenda AC19 1.0
+WPS Router Tenda F9 1.0
+WPS Router TOTOLINK N200RE 1.0
+WPS Router TOTOLINK A810R 1.0
+WPS Router TOTOLINK A702R 1.0
+WPS Router D-Link DIR-615 H1
+WPS Router D-Link DIR-878 A1
+WPS Router D-Link DIR-842 C2
+WPS Router D-Link DSL-2750U C1
+WPS Router Asus RT-N12 D1
+WPS Router Asus RT-N14U B1
+WPS Router Asus RT-AC68U A1
+WPS Router Asus RT-AX55 1.0
+WPS Router Netgear Nighthawk R7000 1.0
+WPS Router Linksys E900 1.0
+WPS Router Linksys EA6350 v3
+WPS Router Zyxel NBG-418N V2
+WPS Router Zyxel NBG-419N V2
+WPS Router Mercusys MW325R 1.0
+WPS Router Mercusys MR70X 1.0
+TP-Link Archer C20 v1
+TP-Link Archer C20 v4
+TP-Link Archer C20 v5
+TP-Link Archer C50 v1
+TP-Link Archer C50 v3
+TP-Link Archer C50 v4
+TP-Link Archer C50 v5
+TP-Link Archer C50 v6
+TP-Link Archer C2 v1
+TP-Link Archer C2 v3
+TP-Link Archer C5 v4
+TP-Link Archer C6 v2
+TP-Link Archer C6 v3.20
+TP-Link TL-WR740N v4
+TP-Link TL-WR740N v6
+TP-Link TL-WR840N v4
+TP-Link TL-WR840N v5
+TP-Link TL-WR840N v6
+TP-Link TL-WR841N v9
+TP-Link TL-WR841N v10
+TP-Link TL-WR841N v11
+TP-Link TL-WR841N v12
+TP-Link TL-WR841N v13
+TP-Link TL-WR841N v14
+TP-Link TL-WR845N v3
+TP-Link TL-WR845N v4
+TP-Link TL-WR940N v3
+TP-Link TL-WR940N v4
+TP-Link TL-WR940N v5
+TP-Link TL-MR3420 v2
+TP-Link TL-MR3420 v5
+D-Link DIR-600
+D-Link DIR-605L
+D-Link DIR-615
+D-Link DIR-615H1
+D-Link DIR-809
+D-Link DIR-612
+D-Link DIR-850L
+Tenda N301
+Tenda F3
+Tenda AC6
+Tenda AC10
+Tenda AC10U
+Tenda AC1200
+Tenda FH456
+Xiaomi Mi Router 3
+Xiaomi Mi Router 3G
+Xiaomi Mi Router 4A
+Xiaomi Mi Router 4C
+Xiaomi Mi Wi-Fi Mini
+Xiaomi Redmi Router AX5
+Asus RT-N10
+Asus RT-N12
+Asus RT-N12 D1
+Asus RT-N14U
+Asus RT-AC51U
+Asus RT-AC53
+Asus RT-AC1200G+
+Asus RT-AC55U
+Asus RT-AC66U
+Asus RT-AC68U
+Netgear WNDR3400
+Netgear WNR2000
+Netgear R6220
+Netgear R6260
+Netgear R6400
+Netgear R7000
+Netgear WN3000RP
+Huawei HG8045A
+Huawei HG8145V5
+Huawei HG8245A
+Huawei HG8245H
+ZTE ZXHN F600
+ZTE ZXHN F608
+ZTE ZXHN F609
+ZTE ZXHN F660
+ZTE ZXHN F670
+ZTE ZXHN F670L
+ZTE ZXHN H198A
+ZTE ZXHN H298N
+Linksys WRT54G
+Linksys WRT54GL
+Linksys E900
+Linksys E1200
+Linksys EA2700
+Linksys EA6350
+Mercusys MW301R
+Mercusys MW305R
+Mercusys MW325R
+Mercusys MR50G
+Totolink N200RE
+Totolink N300RT
+Totolink N600R
+Totolink A3002RU
+Totolink A720R
+Totolink A830R
+Viettel ZTE F608
+Viettel ZTE F609
+Viettel ZTE F660
+Viettel ZTE F670L
+Viettel Huawei HG8045A
+Viettel Huawei HG8145V5
+Viettel TP-Link TL-WR840N
+Viettel TP-Link TL-WR940N
+FPT IGATE GW040
+FPT Tenda AC6
+FPT Tenda AC10U
+FPT TP-Link Archer C2
+FPT TP-Link Archer C5
+VNPT IGATE GW040H
+VNPT Smartbox 2
+VNPT Smartbox 3
+VNPT ZTE ZXHN F609
+VNPT ZTE ZXHN F660
+Cisco RV130W
+MikroTik HAP AC Lite
+Belkin F9K1102
+Belkin N300
+EDIMAX BR-6428nS V4
+Buffalo WZR-HP-G300NH
+Trendnet TEW-731BR
+Trendnet TEW-652BRP
