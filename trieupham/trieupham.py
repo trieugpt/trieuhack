@@ -5,7 +5,7 @@
 # A WPS attack tool for scanning and cracking Wi-Fi networks with WPS enabled
 # Requires root privileges and Python 3.6+
 # Supports Pixie Dust attack, bruteforce, and push-button connection
-# Fixed syntax errors ('break' and 'continue') for compatibility
+# Fixed all syntax errors for compatibility with Termux
 
 import sys
 import subprocess
@@ -18,7 +18,6 @@ import socket
 import pathlib
 import time
 from datetime import datetime
-import collections
 import statistics
 import csv
 from pathlib import Path
