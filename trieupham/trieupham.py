@@ -1,12 +1,5 @@
-```python
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-# trieupham 0.0.3 (c) 2023 rofl0r, drygdryg modded by vladimir127001, enhanced by Grok
-# A WPS attack tool for scanning and cracking Wi-Fi networks with WPS enabled
-# Requires root privileges and Python 3.6+
-# Supports Pixie Dust attack, bruteforce, and push-button connection
-# Fixed 'break' outside loop error for compatibility
-
 import sys
 import subprocess
 import os
