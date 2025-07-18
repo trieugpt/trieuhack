@@ -429,32 +429,25 @@ TP-Link Ax23
 TP-Link Ax53
 TP-Link Ax55
 TP-Link Wr810n
-TP-Link Archer C24
 TP-Link Archer C58
-TP-Link Archer C6 v2
 TP-Link Archer C2 v5
 TP-Link Archer C60 v2
-TP-Link Archer Ax23
-TP-Link Ax73
-TP-Link Ax55
-TP-Link Deco X20
-TP-Link Deco M4
-TP-Link Deco M4 v2
-TP-Link Deco X60
-TP-Link Deco X50
-TP-Link Deco Px50
 Tenda Ac6
-Tenda Ac10u
 Tenda Ac10
+Tenda Ac10u
 Tenda Ac11u 1.0
 Tenda Ac23
+Tenda Ac7
+Tenda Ac8
+Tenda Ac18
+Tenda Ac19
+Tenda Ac1200
 Tenda Fh456
 Tenda Mw12 2.0
 Tenda N301
 Tenda F3
 Tenda Tx27 Pro
 Tenda Tx12 Pro
-Tenda Rx27 Pro
 Tenda Rx12 Pro
 Tenda Ex12
 Tenda Nova Mw12
@@ -464,11 +457,6 @@ Tenda 4g680 V2 (4g Router)
 Tenda 5g06 (5g Router)
 Tenda 4g09 (4g Lte Router)
 Tenda Ac21
-Tenda Ac7
-Tenda Ac8
-Tenda Ac18
-Tenda Ac19
-Tenda Ac1200
 TOTOLINK N200re
 TOTOLINK N600r
 TOTOLINK X5000r
@@ -631,7 +619,6 @@ ZTE ZXHN F6888
 ZTE ZXHN F683
 ZTE ZXHN H298a
 ZTE ZXHN H198a-v2
-ZTE ZXHN F601
 ZTE ZXHN F609
 ZTE ZXHN F609v6
 ZTE ZXHN F609v8
@@ -706,17 +693,13 @@ ZTE Mf920u
 Huawei Hg8045a
 Huawei Eg8145v5 Firmware V500r020c00spc200
 Huawei Eg8145v5
-Huawei Wireless Access Point Rt2860
 Huawei Ax3 Quad-core
 Huawei Ax6
 Huawei Wifi Ax3 Pro (new Revision)
 Huawei B315s-936
-Huawei Hg8145v5
-Huawei Be3 Pro
 Huawei Be3
 Huawei Be7
 Huawei Hg8045q
-Huawei Hg8245h
 Huawei Hg8245a
 Huawei Ax3 Pro Dual-core
 Huawei Wifi Q6 Mesh
@@ -798,7 +781,6 @@ D-Link Dsl-2750u
 D-Link DIR-878 Firmware 1.05b03
 D-Link Dbr-600-p
 D-Link Dbr-x3000-ap
-D-Link Exo Ax5400 Dir-x5460
 D-Link Eagle Pro Ai R32
 D-Link M60 Ax6000
 D-Link Dir-x5460
@@ -812,7 +794,6 @@ D-Link DIR-300
 D-Link DIR-615
 D-Link DIR-878
 D-Link DIR-882
-D-Link DIR-850l
 Linksys Wireless Access Point Ea7500
 Linksys Wireless Router Wrt110
 Linksys E1200 v2
@@ -839,7 +820,6 @@ Netgear Wireless Access Point R6260
 Netgear Nighthawk Ax8
 Netgear Nighthawk Rax50
 Netgear Nighthawk Xr500
-Netgear Orbi Rbk863
 Netgear R6400
 Netgear R7000
 Netgear R7000 Firmware 1.3.3.8
@@ -941,11 +921,6 @@ Archer Vr400 3.0
 Archer Vr2100 1.0
 B-link 123456
 Belkin Ap Ev-2012-09-01
-DAP-1360 DAP-1360
-DIR-635 B3
-DIR-819 v1.0.1
-DIR-842 DIR-842
-Dwr-921c3 Wbr-0001
 Ec120-f5 1.0
 Ec220-g5 2.0
 Ev-2009-02-06
@@ -972,7 +947,6 @@ Td-w9960 1.0
 Td-w9960 1.20
 Td-w9960v 1.0
 Td-w8968 2.0
-Tew-731br Tew-731br
 TL-MR100 1.0
 TL-MR3020 3.0
 TL-MR3420 5.0
@@ -1004,7 +978,6 @@ Wi-fi Protected Setup Router Rt-n10u
 Wi-fi Protected Setup Router Rt-n12
 Wi-fi Protected Setup Router Rt-n12d1
 Wi-fi Protected Setup Router Rt-n12vp
-Wireless Router Rtl8xxx Ev-2009-02-06
 Wireless WPS Router <#zvmodelvz#>
 Wireless WPS Router Rt-n10e
 Wireless WPS Router Rt-n10lx
@@ -1360,3 +1333,291 @@ EDIMAX BR-6428nS V4
 Buffalo WZR-HP-G300NH
 Trendnet TEW-731BR
 Trendnet TEW-652BRP
+Viettel TP-Link TL-WR740N
+Viettel TP-Link TL-WR841N
+Viettel TP-Link TL-WR841HP
+Viettel TP-Link TL-WR941ND
+Viettel TP-Link Archer C20
+Viettel TP-Link Archer C2
+Viettel TP-Link Archer C5
+Viettel TP-Link Archer C6
+Viettel TP-Link Archer C50
+Viettel TP-Link Archer C6U
+Viettel TP-Link Archer AX10
+Viettel TP-Link Archer AX20
+Viettel TP-Link Archer AX53
+Viettel TP-Link Archer AX73
+Viettel TP-Link WR840N
+Viettel TP-Link WR940N
+Viettel TP-Link WR1043ND
+Viettel TP-Link TL-WDR4300
+Viettel Totolink N150RT
+Viettel Totolink N200RE
+Viettel Totolink N300RT
+Viettel Totolink N600R
+Viettel Totolink A3002RU
+Viettel Totolink A720R
+Viettel Totolink X5000R
+Viettel Totolink T6 Mesh
+Viettel Totolink T8 Mesh
+Viettel Totolink T10 Mesh
+Viettel Totolink T20
+Viettel Totolink T30
+Viettel Totolink A810R
+Viettel Totolink A830R
+Viettel Totolink A950RG
+Viettel Totolink A950RG 2024
+Viettel Tenda N3
+Viettel Tenda N301
+Viettel Tenda F3
+Viettel Tenda AC6
+Viettel Tenda AC10
+Viettel Tenda AC10U
+Viettel Tenda AC18
+Viettel Tenda AC19
+Viettel Tenda AC21
+Viettel Tenda AC23
+Viettel Tenda FH456
+Viettel Tenda RX3
+Viettel Tenda RX9 Pro
+Viettel Tenda MW12 2.0
+Viettel Tenda Nova MW3
+Viettel Tenda Nova MW6
+Viettel Tenda Nova MW12
+Viettel Tenda TX12 Pro
+Viettel Tenda TX27 Pro
+Viettel ZTE ZXHN F600
+Viettel ZTE ZXHN F601
+Viettel ZTE ZXHN F608
+Viettel ZTE ZXHN F609
+Viettel ZTE ZXHN F660
+Viettel ZTE ZXHN F670
+Viettel ZTE ZXHN F670L
+Viettel ZTE ZXHN F680
+Viettel ZTE ZXHN F680 V2
+Viettel ZTE F7010
+Viettel ZTE F7015
+Viettel ZTE H198A
+Viettel ZTE H198A Pro
+Viettel ZTE H298N
+Viettel ZTE H298Q
+Viettel ZTE H289A
+Viettel ZTE H368N
+Viettel ZTE H368A
+Viettel ZTE H368B
+Viettel ZTE H560
+Viettel ZTE H860M
+Viettel ZTE MF286D
+Viettel ZTE MF297D
+Viettel ZTE MC801A
+Viettel ZTE MC888 Ultra
+Viettel ZTE F689Z
+Viettel ZTE F660RV1
+Viettel ZTE F660RV2
+Viettel ZTE F660RV3
+Viettel ZTE F660A
+Viettel ZTE F660W
+Viettel Fiberhome AN5506-04-F1A
+Viettel SmartONT AN5506-04-F4T
+Viettel AC1000F
+Viettel AC1000G
+Viettel Huawei HG8045Q
+Viettel Huawei HG8145X6
+Viettel Huawei HG8245A
+Viettel Huawei HG8245H
+Viettel HN8245X6
+Viettel HN8255WS
+Viettel Play Box Wi-Fi 6 Router
+Viettel Wi-Fi Mesh AC1200
+Viettel Wi-Fi Mesh AX3000
+ViettelNet Wi-Fi 5G
+FPT TP-Link TL-WR740N
+FPT TP-Link TL-WR841N
+FPT TP-Link TL-WR941ND
+FPT TP-Link Archer C2
+FPT TP-Link Archer C5
+FPT TP-Link Archer C6
+FPT TP-Link Archer C20
+FPT TP-Link Archer C50
+FPT TP-Link Archer AX10
+FPT TP-Link Archer AX20
+FPT TP-Link Archer AX53
+FPT TP-Link WR940N
+FPT TP-Link WR841N
+FPT TP-Link TL-WR1043ND
+FPT TP-Link TL-WDR4300
+FPT TP-Link Archer C9
+FPT Totolink N150RT
+FPT Totolink N200RE
+FPT Totolink N300RT
+FPT Totolink N350RT
+FPT Totolink N600R
+FPT Totolink X5000R
+FPT Totolink T6 Mesh
+FPT Totolink T8 Mesh
+FPT Totolink T10 Mesh
+FPT Totolink T20
+FPT Totolink T30
+FPT Totolink A810R
+FPT Totolink A830R
+FPT Totolink A950RG
+FPT Totolink A950RG 2024
+FPT Tenda N3
+FPT Tenda N301
+FPT Tenda F3
+FPT Tenda AC6
+FPT Tenda AC10
+FPT Tenda AC10U
+FPT Tenda AC18
+FPT Tenda AC19
+FPT Tenda AC21
+FPT Tenda AC23
+FPT Tenda FH456
+FPT Tenda RX3
+FPT Tenda RX9 Pro
+FPT Tenda MW12 2.0
+FPT Tenda Nova MW3
+FPT Tenda Nova MW6
+FPT Tenda Nova MW12
+FPT Tenda TX12 actor
+FPT Tenda TX27 Pro
+FPT ZTE ZXHN F600
+FPT ZTE ZXHN F601
+FPT ZTE ZXHN F608
+FPT ZTE ZXHN F609
+FPT ZTE ZXHN F660
+FPT ZTE ZXHN F670
+FPT ZTE ZXHN F670L
+FPT ZTE ZXHN F680
+FPT ZTE ZXHN F680 V2
+FPT ZTE F7010
+FPT ZTE F7015
+FPT ZTE H198A
+FPT ZTE H198A Pro
+FPT ZTE H298N
+FPT ZTE H298Q
+FPT ZTE H289A
+FPT ZTE H368N
+FPT ZTE H368A
+FPT ZTE H368B
+FPT ZTE H560
+FPT ZTE H860M
+FPT ZTE MF286D
+FPT ZTE MF297D
+FPT ZTE MC801A
+FPT ZTE MC888 Ultra
+FPT ZTE F689Z
+FPT ZTE F660RV1
+FPT ZTE F660RV2
+FPT ZTE F660RV3
+FPT ZTE F660A
+FPT ZTE F660W
+FPT Gpon F680
+FPT Gpon F680R
+FPT G97RG6M
+FPT G97RG6M V2
+FPT Alcatel Lucent I-241W-A
+FPT Nokia G-2425G-A
+FPT iGate GW040
+FPT iGate GW040H
+FPT iGate GW040X
+FPT iGate GW800
+FPT iGate RG4100HN
+FPT Play Box Wi-Fi 6 Router
+FPT S-Connect GW800
+FPT Smart Gateway S9705
+FPT Wi-Fi Hub AC1000
+VNPT TP-Link TL-WR740N
+VNPT TP-Link TL-WR841N
+VNPT TP-Link TL-WR941ND
+VNPT TP-Link Archer C2
+VNPT TP-Link Archer C5
+VNPT TP-Link Archer C6
+VNPT TP-Link Archer C9
+VNPT TP-Link Archer C20
+VNPT TP-Link Archer C50
+VNPT TP-Link Archer C80
+VNPT TP-Link Archer AX10
+VNPT TP-Link Archer AX20
+VNPT TP-Link Archer WR940N
+VNPT TP-Link Archer WR841N
+VNPT TP-Link Archer TL-WR1043ND
+VNPT TP-Link TL-WDR4300
+VNPT Totolink N150RT
+VNPT Totolink N200RE
+VNPT Totolink N300RT
+VNPT Totolink N600R
+VNPT Totolink X5000R
+VNPT Totolink T6 Mesh
+VNPT Totolink T8 Mesh
+VNPT Totolink T10 Mesh
+VNPT Totolink T20
+VNPT Totolink T30
+VNPT Totolink A810R
+VNPT Totolink A830R
+VNPT Totolink A950RG
+VNPT Totolink A950RG 2024
+VNPT Tenda N3
+VNPT Tenda N301
+VNPT Tenda F3
+VNPT Tenda AC6
+VNPT Tenda AC10
+VNPT Tenda AC10U
+VNPT Tenda AC18
+VNPT Tenda AC19
+VNPT Tenda AC21
+VNPT Tenda AC23
+VNPT Tenda FH456
+VNPT Tenda RX3
+VNPT Tenda RX9 Pro
+VNPT Tenda MW12 2.0
+VNPT Tenda Nova MW3
+VNPT Tenda Nova MW6
+VNPT Tenda Nova MW12
+VNPT Tenda TX12 Pro
+VNPT Tenda TX27 Pro
+VNPT ZTE ZXHN F600
+VNPT ZTE ZXHN F601
+VNPT ZTE ZXHN F608
+VNPT ZTE ZXHN F609
+VNPT ZTE ZXHN F660
+VNPT ZTE ZXHN F670
+VNPT ZTE ZXHN F670L
+VNPT ZTE ZXHN F680
+VNPT ZTE ZXHN F680 V2
+VNPT ZTE F7010
+VNPT ZTE F7015
+VNPT ZTE H198A
+VNPT ZTE H198A Pro
+VNPT ZTE H298N
+VNPT ZTE H298Q
+VNPT ZTE H289A
+VNPT ZTE H368N
+VNPT ZTE H368A
+VNPT ZTE H368B
+VNPT ZTE H560
+VNPT ZTE H860M
+VNPT ZTE MF286D
+VNPT ZTE MF297D
+VNPT ZTE MC801A
+VNPT ZTE MC888 Ultra
+VNPT ZTE F689Z
+VNPT ZTE F660RV1
+VNPT ZTE F660RV2
+VNPT ZTE F660RV3
+VNPT ZTE F660A
+VNPT ZTE F660W
+VNPT Fiberhome HG6145D
+VNPT iGate GW020
+VNPT iGate GW040
+VNPT iGate GW040H
+VNPT iGate GW040X
+VNPT iGate GW800
+VNPT iGate GW1000
+VNPT iGate GR140
+VNPT Smartbox 2
+VNPT Smartbox 3
+VNPT VNE1040E
+VNPT VNE2040
+VNPT Wi-Fi 6
+VNPT Wi-Fi Mesh AX3000
